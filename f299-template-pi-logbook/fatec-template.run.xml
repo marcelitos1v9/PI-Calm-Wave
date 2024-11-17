@@ -85,8 +85,5 @@
     <requires type="dynamic">
       <file>fatec-template.bcf</file>
     </requires>
-    <requires type="editable">
-      <file>fatec-article.bib</file>
-    </requires>
   </external>
 </requests>

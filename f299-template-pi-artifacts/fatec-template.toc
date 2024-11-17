@@ -1,0 +1,11 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\setlength {\parskip }{\z@ plus\p@ }\listsfontsize 
+\contentsline {section}{Canvas do Projeto}{3}{section*.3}%
+\contentsline {section}{Diagrama de Caso de Uso}{3}{section*.5}%
+\contentsline {section}{Diagrama de Classe}{4}{section*.7}%
+\contentsline {section}{Diagrama de Objetos}{5}{section*.9}%
+\contentsline {section}{Modelo Lógico do Banco de Dados}{6}{section*.11}%
